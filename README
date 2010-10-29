@@ -1,0 +1,11 @@
+Snozcumber!
+===========
+
+Sort-of cucumber in ruby-1.9.ish. 
+
+*NEEDS RUBY 1.9!* Don't try it with anything lower!
+
+To run
+------
+
+    ruby -I. features.rb
